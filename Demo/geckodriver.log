@@ -1,0 +1,4 @@
+1612322328798	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilee1j8qO"
+1612322339405	Marionette	INFO	Listening on port 57435
+1612322431261	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileIUvtvO"
+1612322436537	Marionette	INFO	Listening on port 57485
