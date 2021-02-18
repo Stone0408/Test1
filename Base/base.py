@@ -10,6 +10,7 @@ class Base():
         self.log =FrameLog().log()
 
 
+
     #*args 表示接受任意多个非关键字参数
     def findele(self,*args):
         try:
